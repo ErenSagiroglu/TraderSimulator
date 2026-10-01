@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a7aa192c81f91b345b674ba6159a1d8a
+guid: 4c3cb8b959ac03b41a610f980d4d56a6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4031288493506344693
-    second: Oda_0
+      213: -7943720702334105097
+    second: Character2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Oda_0
+      name: Character2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 768
-        height: 1376
+        x: 174
+        y: 25
+        width: 461
+        height: 1325
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b094f6d497cfd08c0800000000000000
-      internalID: -4031288493506344693
+      spriteID: 7f9857edb1c32c190800000000000000
+      internalID: -7943720702334105097
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Oda_0: -4031288493506344693
+      Character2_0: -7943720702334105097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
